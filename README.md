@@ -1,5 +1,5 @@
 # Leon | Template One
-
+Leon | Template One is a simple HTML & CSS template
 
 ## Table of contents
 
